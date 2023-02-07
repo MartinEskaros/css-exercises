@@ -1,0 +1,14 @@
+.button{
+font-size: 28px;
+font-family:  Helvetica, 'Times New Roman', sans-serif;
+}
+
+.small{
+background-color: black;
+color: white;
+}
+
+.big{
+    background-color: yellow;
+    color: black;  /* no need for this since button class autmatically puts the font as black and the element is also in the button class*/
+}
