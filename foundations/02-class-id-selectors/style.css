@@ -1,0 +1,18 @@
+.pink {
+    background-color: rgb(255, 204, 203);
+    font-family: "Verdana", "DejaVu-Sans","sans-serif";
+}
+.bigger {
+    font-size: 24px;
+}
+
+#second {
+color: blue;
+font-size: 36px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;        /* Could have ommitted this and just use the bigger class in the fourth element in the html file*/
+    font-weight: bold;
+}
